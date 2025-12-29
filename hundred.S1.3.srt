@@ -1,0 +1,1315 @@
+1
+00:00:12,390 --> 00:00:13,860
+Quelle est la situation ?
+
+2
+00:00:14,470 --> 00:00:16,690
+Nous suivons trois Savages à la trace.
+
+3
+00:00:16,690 --> 00:00:19,370
+Le bloc urbain de l'île Zwei est endommagé.
+
+4
+00:00:19,370 --> 00:00:22,150
+L'évacuation des citoyens est presque terminée.
+
+5
+00:00:23,140 --> 00:00:25,840
+Hayato ! Emile !
+
+6
+00:00:25,840 --> 00:00:27,960
+Meimei ? Qu'est-ce que tu fais ici ?
+
+7
+00:00:27,960 --> 00:00:29,750
+Je travaille.
+
+8
+00:00:30,260 --> 00:00:33,280
+Chris, tu devrais rejoindre ton poste toi aussi.
+
+9
+00:00:33,280 --> 00:00:34,460
+Bien reçu.
+
+10
+00:00:36,090 --> 00:00:39,760
+Chris est notre analyste principal.
+
+11
+00:00:40,060 --> 00:00:41,540
+Analyste principal ?
+
+12
+00:00:41,540 --> 00:00:42,990
+Mais il n'est qu'au collège, non ?
+
+13
+00:00:43,550 --> 00:00:46,270
+Oublie les collégiens ou les lycéens classiques,
+
+14
+00:00:46,560 --> 00:00:52,160
+son intelligence et ses capacités surpassent même la division du renseignement du QG de Warslan.
+
+15
+00:00:52,160 --> 00:00:53,480
+Sa place est vraiment ici.
+
+16
+00:00:53,880 --> 00:00:55,230
+Wouah.
+
+17
+00:00:55,840 --> 00:00:57,030
+Je suis honoré.
+
+18
+00:00:57,410 --> 00:01:00,170
+On a un visuel sur le troisième Savage.
+
+19
+00:01:00,170 --> 00:01:01,290
+Affichage sur l'écran principal.
+
+20
+00:01:03,400 --> 00:01:04,290
+Il est énorme.
+
+21
+00:01:04,640 --> 00:01:06,670
+Un géant.
+
+22
+00:01:06,980 --> 00:01:08,700
+C'est un classe Trenta.
+
+23
+00:01:08,700 --> 00:01:11,790
+L'estimation de sa puissance est inconnue.
+
+24
+00:01:12,430 --> 00:01:13,980
+On va devoir s'occuper d'un truc pareil...
+
+25
+00:01:13,980 --> 00:01:16,200
+Claire-sama, préparez-vous pour la sortie.
+
+26
+00:01:17,240 --> 00:01:20,550
+À la réflexion, Charlotte Dimandius,
+
+27
+00:01:20,550 --> 00:01:24,550
+je vais renoncer à déployer Emile Crossfode et Hayato Kisaragi aujourd'hui.
+
+28
+00:01:25,390 --> 00:01:27,170
+Ils ont peut-être votre recommandation,
+
+29
+00:01:27,170 --> 00:01:29,600
+mais ils n'ont aucune expérience sur le terrain.
+
+30
+00:01:29,600 --> 00:01:31,780
+Affronter un Savage normal serait une chose,
+
+31
+00:01:31,780 --> 00:01:35,050
+mais un classe Trenta est bien trop pour eux.
+
+32
+00:01:35,050 --> 00:01:36,570
+Alors, quel est votre plan ?
+
+33
+00:01:37,270 --> 00:01:39,640
+Vous allez y aller toutes les trois ?
+
+34
+00:01:41,230 --> 00:01:45,660
+Dans quelques heures, une équipe de soutien du QG de Warslan arrivera,
+
+35
+00:01:45,660 --> 00:01:47,500
+si nous pouvons tenir jusque-là...
+
+36
+00:01:47,500 --> 00:01:48,890
+Oh ?
+
+37
+00:01:48,890 --> 00:01:53,990
+Je n'aurais jamais pensé que vous dépendriez de votre frère aîné, le PDG Judar Harvey.
+
+38
+00:01:55,060 --> 00:01:56,840
+Mon frère n'a rien à voir là-dedans.
+
+39
+00:01:57,240 --> 00:02:01,660
+Je prends simplement la meilleure décision en tant que capitaine du Little Garden.
+
+40
+00:02:01,970 --> 00:02:04,260
+Liddy, Erica, on y va.
+
+41
+00:02:06,030 --> 00:02:06,480
+Reçu !
+
+42
+00:02:07,160 --> 00:02:08,870
+Attendez, Présidente.
+
+43
+00:02:08,870 --> 00:02:10,400
+S'il vous plaît, emmenez-nous avec vous.
+
+44
+00:02:10,720 --> 00:02:13,190
+Vous n'avez pas entendu ce que je viens de dire ?
+
+45
+00:03:13,670 --> 00:02:14,870
+Si,
+
+46
+00:02:15,500 --> 00:02:19,470
+mais n'est-ce pas vous qui nous avez parlé de croire en la "noblesse oblige" ?
+
+47
+00:02:21,040 --> 00:02:22,830
+Je crois en la noblesse oblige !
+
+48
+00:02:22,830 --> 00:02:28,040
+Ceux qui ont le pouvoir doivent s'en servir pour protéger ceux qui n'en ont pas.
+
+49
+00:02:28,720 --> 00:02:31,640
+Il y a longtemps, j'ai été attaqué par un Savage
+
+50
+00:02:31,640 --> 00:02:33,840
+et j'ai perdu une partie de mes souvenirs.
+
+51
+00:02:35,270 --> 00:02:37,510
+Si nous attendons l'arrivée des renforts,
+
+52
+00:02:38,220 --> 00:02:40,510
+la ville sera détruite.
+
+53
+00:02:41,160 --> 00:02:44,010
+Et avec elle, les vies et les souvenirs des habitants.
+
+54
+00:02:45,060 --> 00:02:47,330
+Je ne sais pas ce que je pourrai faire sur place,
+
+55
+00:02:48,030 --> 00:02:50,640
+mais je vous en prie, laissez-moi y aller.
+
+56
+00:02:51,880 --> 00:02:53,070
+Juste pour que vous sachiez,
+
+57
+00:02:53,070 --> 00:02:56,310
+ce n'est pas moi qui ai recommandé leur participation.
+
+58
+00:02:56,310 --> 00:02:57,370
+C'est LiZA.
+
+59
+00:02:58,230 --> 00:02:59,070
+LiZA l'a fait ?
+
+60
+00:02:59,400 --> 00:03:05,330
+Elle a dit que le meilleur moyen de limiter les pertes et de réussir l'opération
+
+61
+00:03:05,330 --> 00:03:11,040
+était d'envoyer Hayato Kisaragi et Emile Crossfode en renfort avec vous trois.
+
+62
+00:11:53,040 --> 00:11:53,040
+Exactement.
+
+63
+00:03:14,750 --> 00:03:16,130
+S'il vous plaît, Présidente.
+
+64
+00:03:16,910 --> 00:03:18,550
+On vous en prie !
+
+65
+00:03:21,370 --> 00:03:23,110
+D'accord.
+
+66
+00:03:23,110 --> 00:03:25,800
+Si c'est ce que LiZA a déterminé, je dois m'y plier.
+
+67
+00:05:00,770 --> 00:05:06,240
+Éveil du Variant
+
+68
+00:05:01,180 --> 00:05:03,530
+Bien, je vais passer l'opération en revue.
+
+69
+00:05:04,270 --> 00:05:05,850
+D'abord, Claire-sama, Liddy
+
+70
+00:05:05,850 --> 00:05:09,050
+et moi attaquerons le Savage standard au point Alpha.
+
+71
+00:05:09,050 --> 00:05:10,490
+Une fois éliminé,
+
+72
+00:05:10,490 --> 00:05:13,540
+nous engagerons le classe Trenta au point Gamma.
+
+73
+00:05:14,040 --> 00:15:18,020
+Hayato Kisaragi et Emile Crossfode passeront à l'action à ce moment-là.
+
+74
+00:05:18,020 --> 00:05:20,950
+Occupez-vous du Savage standard au point Beta.
+
+75
+00:05:21,330 --> 00:05:23,420
+Pourquoi ne pas sortir tous ensemble ?
+
+76
+00:05:23,780 --> 00:05:26,360
+Vous deux n'avez aucune expérience sur le terrain.
+
+77
+00:05:26,910 --> 00:05:30,840
+Nous passerons devant pour vous montrer comment combattre les Savages.
+
+78
+00:05:30,840 --> 00:05:34,020
+De toute manière, une fois le Savage du point Beta éliminé,
+
+79
+00:05:34,020 --> 00:05:35,910
+votre travail sera terminé.
+
+80
+00:05:35,910 --> 00:05:38,710
+On ne doit pas vous aider pour le classe Trenta ?
+
+81
+00:05:38,710 --> 00:05:41,320
+Ouais, il avait l'air vraiment balaise.
+
+82
+00:05:41,630 --> 00:05:42,680
+Ne nous sous-estimez pas !
+
+83
+00:05:42,680 --> 00:05:46,600
+Combien de Savages pensez-vous que nous avons éliminés jusqu'ici ?
+
+84
+00:05:46,600 --> 00:05:52,120
+Nous avons rencontré des spécimens inconnus plusieurs fois et nous les avons tous vaincus.
+
+85
+00:05:52,910 --> 00:05:54,700
+Laissez-nous le classe Trenta.
+
+86
+00:06:09,430 --> 00:06:12,120
+D'abord, on neutralise sa vision.
+
+87
+00:06:20,810 --> 00:06:22,730
+Liddy, Erica, on y va !
+
+88
+00:06:23,100 --> 00:06:23,860
+Reçu !
+
+89
+00:06:24,530 --> 00:06:26,360
+Hundred On !
+
+90
+00:06:33,030 --> 00:06:34,450
+Ce Hundred...
+
+91
+00:06:34,860 --> 00:06:36,760
+C'est un type Arsène
+
+92
+00:06:36,760 --> 00:06:40,480
+qui génère des chaînes d'énergie extensibles à volonté.
+
+93
+00:06:40,480 --> 00:06:42,860
+Son nom est Everlasting.
+
+94
+00:06:44,490 --> 00:06:45,670
+À vous, Claire-sama !
+
+95
+00:06:51,410 --> 00:06:54,300
+Claire vise la tête du Savage.
+
+96
+00:06:54,890 --> 00:06:56,310
+Autrement dit, son noyau.
+
+97
+00:06:56,310 --> 00:06:57,570
+Prends ça !
+
+98
+00:06:59,040 --> 00:07:02,710
+On dit que la peau d'un Savage est dure comme l'acier,
+
+99
+00:07:02,710 --> 00:07:06,400
+mais une attaque de Hundred peut la trancher comme du beurre.
+
+100
+00:07:06,400 --> 00:07:07,940
+C'est le noyau !
+
+101
+00:07:08,410 --> 00:07:10,300
+Laisse-moi t'achever !
+
+102
+00:07:13,710 --> 00:07:17,700
+Je dois montrer à ces nouveaux de quoi nous sommes capables !
+
+103
+00:07:21,580 --> 00:07:25,000
+Transperce-le !
+
+104
+00:07:26,720 --> 00:07:29,340
+Tu as vu ça, Emile Crossfode ?!
+
+105
+00:07:36,480 --> 00:07:38,610
+C'est à votre tour.
+
+106
+00:07:38,980 --> 00:07:41,800
+Dès l'atterrissage, foncez immédiatement au point Beta—
+
+107
+00:07:41,800 --> 00:07:44,010
+On ne peut pas attendre que cet engin se pose !
+
+108
+00:07:45,120 --> 00:07:48,730
+La Présidente et les autres ont sauté, on doit faire pareil.
+
+109
+00:07:48,730 --> 00:07:50,610
+Pas vrai, Hayato ?
+
+110
+00:07:54,250 --> 00:07:57,120
+Hé ! Dépêche-toi de déployer ton Hundred.
+
+111
+00:07:57,120 --> 00:07:58,850
+M-Mais qu'est-ce qui te prend ?!
+
+112
+00:07:59,560 --> 00:08:01,460
+Hundred On !
+
+113
+00:08:08,540 --> 00:08:11,700
+Hayato, essayons de faire la même chose qu'elles.
+
+114
+00:08:11,700 --> 00:08:12,130
+Hein ?
+
+115
+00:08:12,430 --> 00:08:14,640
+Je vais tirer pour créer un écran de fumée.
+
+116
+00:08:14,640 --> 00:08:17,480
+Profite de cette chance pour attaquer le noyau.
+
+117
+00:08:18,580 --> 00:08:19,520
+Compris.
+
+118
+00:08:30,220 --> 00:08:30,990
+C'est du costaud.
+
+119
+00:08:40,600 --> 00:08:41,410
+Hayato !
+
+120
+00:08:41,810 --> 00:08:42,880
+Je sais !
+
+121
+00:08:47,400 --> 00:08:48,730
+Je n'arrive pas à atteindre le noyau.
+
+122
+00:08:57,020 --> 00:08:58,050
+C'est maintenant.
+
+123
+00:09:07,100 --> 00:09:08,610
+On a réussi, Hayato !
+
+124
+00:09:08,610 --> 00:09:09,320
+Hein ?
+
+125
+00:09:14,580 --> 00:09:15,450
+Ouais.
+
+126
+00:10:18,200 --> 00:09:19,030
+Liddy !
+
+127
+00:09:19,030 --> 00:09:20,700
+Laisse-moi faire.
+
+128
+00:09:36,300 --> 00:09:37,720
+Liddy ! Erica !
+
+129
+00:09:46,180 --> 00:09:47,890
+Allons les sauver, Emile !
+
+130
+00:09:47,890 --> 00:09:48,730
+Ouais.
+
+131
+00:09:48,730 --> 00:09:50,340
+Ce n'est pas nécessaire.
+
+132
+00:09:51,250 --> 00:09:53,580
+Restez en retrait, tous les deux.
+
+133
+00:09:53,970 --> 00:09:57,540
+Je vous ai dit que le conseil des élèves s'occuperait de celui-là.
+
+134
+00:09:57,540 --> 00:09:58,320
+Mais...!
+
+135
+00:09:58,660 --> 00:10:00,040
+Silence !
+
+136
+00:10:10,760 --> 00:10:13,370
+Je vais vous détruire avec l'abri.
+
+137
+00:10:16,250 --> 00:10:18,930
+Je vais vous détruire avec l'abri.
+
+138
+00:10:29,870 --> 00:10:31,110
+Encore une fois...
+
+139
+00:10:32,910 --> 00:10:34,240
+Je manque d'énergie ?
+
+140
+00:10:34,990 --> 00:10:37,950
+Est-ce que le duel contre Hayato m'affecte encore ?
+
+141
+00:10:41,290 --> 00:10:42,120
+Claire-sama !
+
+142
+00:10:45,620 --> 00:10:47,000
+Claire-sama !
+
+143
+00:10:59,750 --> 00:11:01,210
+Hayato Kisaragi ?!
+
+144
+00:11:02,260 --> 00:11:03,300
+Ça va ?
+
+145
+00:11:05,320 --> 00:11:07,810
+Je vous avais dit de rester en retrait...
+
+146
+00:11:08,180 --> 00:11:11,510
+Impossible de rester là sans rien faire pendant qu'on s'en prend à l'un des nôtres.
+
+147
+00:11:13,460 --> 00:11:15,670
+Elle a quoi ta main ?
+
+148
+00:11:15,670 --> 00:11:16,380
+Hein ?
+
+149
+00:11:18,190 --> 00:11:20,070
+Oh, pardon !
+
+150
+00:11:20,800 --> 00:11:24,620
+Pourquoi tu me voles toujours mes "premières fois" ?
+
+151
+00:11:24,620 --> 00:11:27,190
+Ce n'est pas vraiment mon intention...
+
+152
+00:11:27,190 --> 00:11:29,090
+C'était ma première fois portée comme une princesse...
+
+153
+00:11:29,090 --> 00:11:30,500
+C'est ça qui t'inquiète ?!
+
+154
+00:11:30,500 --> 00:11:32,500
+Claire-sama, vous allez vous faire toucher !
+
+155
+00:11:33,700 --> 00:11:34,620
+C'est mauvais !
+
+156
+00:11:35,040 --> 00:11:37,770
+Désolé, on va devoir esquiver comme ça.
+
+157
+00:11:36,770 --> 00:11:37,420
+Attendez !
+
+158
+00:11:39,340 --> 00:11:41,050
+Qu'est-ce qu'il y a, Erica ?
+
+159
+00:11:41,050 --> 00:11:44,120
+Il y a un aéroport dans la direction où le Savage va tirer.
+
+160
+00:11:44,120 --> 00:11:47,560
+Si vous esquivez, les gens qui essaient d'évacuer seront touchés.
+
+161
+00:11:48,040 --> 00:11:49,740
+Présidente, que dois-je faire ?
+
+162
+00:11:49,740 --> 00:11:51,730
+Déploie une barrière et encaisse le tir.
+
+163
+00:11:52,050 --> 00:11:53,820
+Tu devrais en être capable.
+
+164
+00:11:55,430 --> 00:11:57,070
+On n'a plus le temps d'hésiter.
+
+165
+00:12:02,140 --> 00:12:05,760
+Nous allons relâcher notre énergie en même temps pour renvoyer le tir.
+
+166
+00:12:05,760 --> 00:12:06,410
+Reçu.
+
+167
+00:12:07,630 --> 00:12:08,790
+C'est parti !
+
+168
+00:12:20,160 --> 00:12:22,560
+On a réussi, Hayato.
+
+169
+00:12:22,560 --> 00:12:24,300
+C'est grâce à vous...
+
+170
+00:12:24,300 --> 00:12:27,220
+Ce n'est pas comme si j'avais fait ça pour vous.
+
+171
+00:12:27,890 --> 00:12:28,840
+Oh.
+
+172
+00:12:29,320 --> 00:12:31,150
+Ça ne va pas ?
+
+173
+00:12:31,630 --> 00:12:35,450
+Ouais, garder mon armement activé me prend toute mon énergie.
+
+174
+00:12:35,450 --> 00:12:38,100
+C'est une bien jolie ambiance qu'il y a entre vous deux.
+
+175
+00:12:38,100 --> 00:12:39,480
+E-Emile ?
+
+176
+00:12:39,480 --> 00:12:42,950
+On va devoir discuter de ça plus tard.
+
+177
+00:13:22,860 --> 00:12:57,330
+Emile !
+
+178
+00:13:22,860 --> 00:13:25,230
+Emilia !
+
+179
+00:13:37,240 --> 00:13:39,080
+Ça va, Emilia ?
+
+180
+00:13:39,370 --> 00:13:40,370
+Hayato ?
+
+181
+00:13:40,920 --> 00:13:43,930
+Attends... Tu t'en es souvenu ?
+
+182
+00:13:43,930 --> 00:13:45,090
+Pas de tout,
+
+183
+00:13:45,790 --> 00:13:49,300
+mais je sais que tu es Emilia Hermit.
+
+184
+00:13:50,030 --> 00:13:51,480
+Hayato...
+
+185
+00:13:51,480 --> 00:13:53,990
+Tu m'as encore sauvée.
+
+186
+00:13:54,740 --> 00:13:56,000
+On discutera plus tard.
+
+187
+00:13:56,000 --> 00:13:57,880
+Emilia, fuis maintenant.
+
+188
+00:13:57,880 --> 00:13:58,360
+Mais...!
+
+189
+00:13:58,360 --> 00:13:59,100
+Dépêche-toi !
+
+190
+00:14:01,360 --> 00:14:02,980
+Prends la Vice-présidente avec toi !
+
+191
+00:14:09,830 --> 00:14:11,250
+Hayato !
+
+192
+00:14:29,890 --> 00:14:31,010
+Armement complet...
+
+193
+01:14:32,480 --> 01:14:33,640
+C'est comme la dernière fois...
+
+194
+01:14:39,300 --> 01:14:40,250
+Hayato....
+
+195
+01:14:43,720 --> 01:14:46,830
+Non, Hayato ! Tu ne dois pas perdre le contrôle !
+
+196
+01:15:13,390 --> 01:15:14,390
+Vice-présidente !
+
+197
+01:15:18,670 --> 01:15:20,530
+Ça va, Erica ?
+
+198
+01:15:21,280 --> 01:15:22,400
+Claire-sama...
+
+199
+01:15:23,230 --> 01:15:25,400
+M-Merci.
+
+200
+01:15:26,630 --> 01:15:27,780
+Hayato Kisaragi,
+
+201
+01:15:28,660 --> 01:15:30,610
+qu'est-ce qui t'a pris ?
+
+202
+01:15:35,370 --> 01:15:37,610
+Arrête, Hayato !
+
+203
+01:15:39,180 --> 01:15:40,250
+On n'a pas le choix.
+
+204
+01:16:02,190 --> 01:16:04,190
+Emilia... Je...
+
+205
+01:16:04,190 --> 01:16:05,270
+Je t'expliquerai plus tard.
+
+206
+01:16:05,950 --> 01:16:07,780
+On doit l'achever.
+
+207
+01:16:08,730 --> 01:16:12,250
+Envoie toute ton énergie dans ton Flying Swallow et détruis son noyau.
+
+208
+01:16:12,250 --> 01:16:13,660
+Je peux y arriver ?
+
+209
+01:16:13,660 --> 01:16:16,280
+Tout ira bien, maintenant.
+
+210
+01:16:18,340 --> 01:16:19,290
+D'accord.
+
+211
+01:16:21,000 --> 01:16:23,530
+Vas-y !
+
+212
+01:16:52,700 --> 01:16:54,580
+J'ai réussi...
+
+213
+01:17:00,250 --> 01:17:01,700
+Beau travail, Hayato.
+
+214
+01:17:02,810 --> 01:17:03,500
+Ouais.
+
+215
+01:17:06,350 --> 01:17:08,360
+Emile Crossfode...
+
+216
+01:17:13,010 --> 01:17:16,050
+T-Tu... as des seins...
+
+217
+01:17:16,500 --> 01:17:18,020
+Et en plein combat, tu...
+
+218
+01:17:18,020 --> 01:17:21,020
+Tu as embrassé Hayato Kisaragi...
+
+219
+01:17:22,440 --> 01:17:24,320
+On dirait que tu m'as démasquée.
+
+220
+01:17:42,020 --> 01:17:45,100
+Nous avons pu protéger tous ces gens.
+
+221
+01:17:45,580 --> 01:17:46,830
+Et cet endroit.
+
+222
+01:17:47,650 --> 01:17:49,850
+C'est génial, non, Hayato ?
+
+223
+01:17:49,850 --> 01:17:50,590
+Ouais.
+
+224
+01:17:51,550 --> 01:17:57,720
+On accepte le combat pour vivre des moments comme celui-ci.
+
+225
+01:18:02,270 --> 01:18:05,930
+Alors, tu as abattu le Savage ?
+
+226
+01:18:06,300 --> 01:18:08,080
+Pas tout seul.
+
+227
+01:18:08,380 --> 01:18:11,330
+La Présidente, Emile et tous les autres m'ont aidé.
+
+228
+01:18:11,830 --> 01:18:16,290
+C'est dommage que le concert de Sakura ait été annulé.
+
+229
+01:18:15,610 --> 18:18,740
+Apparition de Savage sur l'île Zwei, dégâts constatés.
+
+230
+18:16,290 --> 18:18,740
+Mais je suis soulagé qu'il n'y ait pas eu de blessés.
+
+231
+18:19,620 --> 18:22,890
+Maintenant, tu vas devoir te rattraper pour m'avoir inquiétée.
+
+232
+18:23,370 --> 18:24,900
+Bêta.
+
+233
+18:30,590 --> 18:36,050
+On m'a dit que je pouvais continuer à me faire passer pour un garçon pour ne pas créer de scandale.
+
+234
+18:36,050 --> 18:38,590
+La Présidente a fini par accepter, à contrecœur.
+
+235
+18:39,460 --> 18:40,360
+Mais...
+
+236
+18:40,890 --> 18:43,470
+...je ne peux plus rester dans cette chambre.
+
+237
+18:44,060 --> 18:45,140
+Je vois.
+
+238
+18:46,760 --> 18:48,890
+Emile, je veux que tu me racontes
+
+239
+18:49,500 --> 18:51,010
+tout ce que tu sais.
+
+240
+18:52,960 --> 18:55,900
+D'abord, je dois te parler des Variants.
+
+241
+18:57,480 --> 18:58,650
+Les Variants ?
+
+242
+19:00,350 --> 19:03,450
+Donc, parce que tu as été attaquée par un Savage,
+
+243
+19:03,450 --> 19:06,540
+tu as été infectée par le virus Savage ?
+
+244
+19:06,790 --> 19:07,560
+C'est exact.
+
+245
+19:08,380 --> 19:12,220
+Et comme tu as essayé d'aspirer mon sang pour me sauver, tu l'es aussi.
+
+246
+19:14,110 --> 19:16,120
+Le virus est puissant.
+
+247
+19:16,120 --> 19:18,160
+La plupart des gens en meurent.
+
+248
+19:18,740 --> 19:20,880
+Mais si on a de la chance et qu'on survit,
+
+249
+19:20,880 --> 19:24,050
+notre score Hundred grimpe en flèche,
+
+250
+19:20,880 --> 19:25,890
+et on devient extrêmement compatible.
+
+251
+19:26,550 --> 19:30,990
+Char appelle les gens infectés des "Variants".
+
+252
+19:31,750 --> 19:34,480
+Nous sommes moins de dix dans le monde entier.
+
+253
+19:34,480 --> 19:37,720
+Je savais que je te reverrais.
+
+254
+19:37,720 --> 19:42,660
+J'avais demandé à Char de surveiller les tests Hundred à travers le monde.
+
+255
+19:42,660 --> 19:47,200
+C'est pour ça que tu savais que je viendrais ici, et que tu as rejoint le Little Garden.
+
+256
+19:47,500 --> 19:52,890
+Je ne pensais pas me retrouver dans l'école où Char serait affectée, par contre.
+
+257
+19:52,890 --> 19:56,110
+Mais pourquoi as-tu dû te faire passer pour un garçon ?
+
+258
+19:57,760 --> 19:58,830
+Eh bien...
+
+259
+19:59,550 --> 20:02,470
+...je voulais être dans la même chambre que toi.
+
+260
+20:04,360 --> 20:07,120
+Mais ce n'est pas la seule raison.
+
+261
+20:07,120 --> 20:09,750
+Ce serait grave si les gens le découvraient.
+
+262
+20:09,750 --> 20:12,190
+Tu pourras me raconter ça plus tard.
+
+263
+20:13,330 --> 20:17,070
+Donc, si je perds mes souvenirs en plein combat,
+
+264
+20:17,070 --> 20:18,690
+c'est parce que je suis un Variant ?
+
+265
+19:12,010 --> 20:22,010
+Oui. Quand tu es en danger de mort,
+
+266
+20:22,010 --> 20:25,390
+le virus s'active, tu perds le contrôle et tu entres dans une rage folle.
+
+267
+20:26,050 --> 20:28,240
+C'est l'une des caractéristiques des Variants.
+
+268
+20:28,730 --> 20:30,100
+Alors toi aussi, Emile...
+
+269
+20:31,260 --> 20:34,180
+Mais j'ai appris à le contrôler avec l'entraînement.
+
+270
+20:34,690 --> 20:36,560
+Je me demande si j'en serai capable moi aussi.
+
+271
+20:36,560 --> 20:37,640
+Tout ira bien.
+
+272
+20:37,640 --> 20:39,810
+Tu pourras le contrôler si tu suis l'entraînement.
+
+273
+20:39,810 --> 20:41,350
+Faisons de notre mieux ensemble.
+
+274
+20:41,350 --> 20:43,510
+Ouais. Merci.
+
+275
+20:44,680 --> 20:45,940
+Dis, Hayato...
+
+276
+20:45,940 --> 20:46,780
+Hum ?
+
+277
+20:46,780 --> 20:50,140
+Ce jour-là à Gudenberg, et aujourd'hui...
+
+278
+20:50,530 --> 20:53,100
+Je voulais te remercier de m'avoir sauvée.
+
+279
+20:53,610 --> 20:56,360
+J'ai toujours voulu te dire merci.
+
+280
+20:58,190 --> 21:00,580
+Oh, au fait. Je dois faire du thé.
+
+281
+21:00,580 --> 21:01,860
+Je m'en occupe.
+
+282
+21:07,390 --> 21:08,850
+H-Hayato...
+
+283
+21:08,850 --> 21:12,070
+Si tu me donnes un peu plus de temps, je ne serais pas contre...
+
+284
+21:12,070 --> 21:13,620
+C-Ce n'est pas ça.
+
+285
+21:14,150 --> 21:15,210
+Mon corps...
+
+286
+21:16,610 --> 21:19,800
+Attends. Est-ce que ce serait un effet secondaire de l'activation du virus ?
+
+287
+21:28,990 --> 21:30,280
+Hé.
+
+288
+21:30,280 --> 21:32,660
+Pour supprimer un virus activé,
+
+289
+21:32,660 --> 21:35,510
+tu dois administrer un virus inactif.
+
+290
+21:36,060 --> 21:38,690
+En d'autres termes, je viens d'administrer le mien.
+
+291
+21:40,660 --> 21:43,220
+Est-ce que tu...
+
+292
+21:44,110 --> 21:46,280
+...n'as pas aimé m'embrasser ?
+
+293
+21:46,280 --> 21:49,200
+N-Non, ce n'est pas ça,
+
+294
+21:49,200 --> 21:50,470
+mais...
+
+295
+22:00,220 --> 22:01,940
+Emile Crossfode !
+
+296
+22:01,940 --> 22:04,350
+Je t'avais dit de changer de chambre immédiatement !
+
+297
+22:05,930 --> 22:08,130
+L-La Présidente ?!
+
+298
+22:08,830 --> 22:12,270
+Qu-Qu-Qu'est-ce que vous fabriquez ?!
+
+299
+22:12,270 --> 22:14,830
+Et vous êtes l'un sur l'autre...
+
+300
+22:14,830 --> 22:17,020
+Non, on était juste en train de...!
+
+301
+22:25,490 --> 22:28,170
+Hé, qu'est-ce que tu fais ?!
+
+302
+22:29,050 --> 22:30,700
+Je-Je suis désolée !
+
+303
+22:30,700 --> 22:33,760
+Tu as encore pris l'une de mes "premières fois"...
+
+304
+22:33,760 --> 22:35,870
+C-C'était un accident ! Un accident !
+
+305
+22:36,960 --> 22:38,620
+Je le sais bien.
+
+306
+22:39,020 --> 22:41,200
+Tu n'as pas besoin de t'excuser.
+
+307
+22:42,390 --> 22:46,060
+Tu sais, tu es étrangement gentille avec Hayato.
+
+308
+22:46,060 --> 22:48,190
+Tu es bizarre depuis hier.
+
+309
+22:48,190 --> 22:50,470
+C'est totalement faux.
+
+310
+22:50,760 --> 22:52,610
+Alors pourquoi es-tu venue ici ?!
+
+311
+22:52,610 --> 22:55,880
+Je voulais m'assurer que tu avais bien quitté la chambre.
+
+312
+22:55,880 --> 22:57,620
+C'est mon devoir de présidente du conseil.
+
+313
+22:57,620 --> 23:01,030
+Si quelque chose de mal arrivait...
+
+314
+23:01,030 --> 23:02,690
+Quelque chose de mal ?
+
+315
+23:02,690 --> 23:05,570
+Tu as toi-même embrassé Hayato !
+
+316
+23:05,820 --> 23:08,620
+Hayato, embrasse-moi encore !
+
+317
+23:08,620 --> 23:11,000
+Je ne peux pas perdre face à la Présidente !
+
+318
+23:11,830 --> 23:14,200
+Arrête ça, Emile !
+
+319
+23:14,200 --> 23:15,870
+Et toi aussi, Hayato !
+
+320
+23:16,650 --> 23:20,650
+Et en quoi ça vous pose un problème si Hayato et moi on s'embrasse ?
+
+321
+23:32,880 --> 23:35,500
+Dommage pour le concert.
+
+322
+23:35,500 --> 23:45,480
+Ouais...
+
+323
+23:37,000 --> 23:39,280
+C'est bien que personne n'ait été blessé.
+
+324
+23:40,080 --> 23:41,780
+On aura une autre chance.
+
+325
+23:42,100 --> 23:44,850
+Tu pourras revenir enchanter les gens avec tes chansons.
+
+326
+23:44,850 --> 23:45,480
+Ouais.
+
+327
+23:47,110 --> 23:50,860
+Une vidéo du Slayer héros qui a sauvé l'île Zwei...
+
+328
+23:52,120 --> 23:53,340
+Héros...
+
+329
+24:00,790 --> 24:05,740
+Garde du Corps
